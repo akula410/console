@@ -1,8 +1,8 @@
 package main
 
 import (
-	"console"
 	"fmt"
+	"github.com/akula410/console"
 )
 
 var testAttr = []*console.Attr{
